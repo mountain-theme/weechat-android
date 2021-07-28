@@ -8,9 +8,10 @@
 3. Click on `Import` and navigate to `mountain.properties` and select it
 4. Select `Dark color scheme` and now select `Mountain` as your theme
 
-## Screenshots
-<a href="/img/weechat-android.png"><img src="/img/weechat-android.png" height="640px"></a>
-<a href="/img/weechat-android-drawer.png"><img src="/img/weechat-android-drawer.png" height="640px"></a>
+## Screenshot
+<p align="center">
+<a href="/img/weechat-android.png"><img src="/img/weechat-android.png" height="800px"></a>
+</p>
 
 The above screenshot uses the gorgeous [Cozette](https://github.com/slavfox/Cozette) font. 
 
