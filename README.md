@@ -1,4 +1,4 @@
-<h2>Mountain for Weechat-Android</h2>
+<h2>Mountain for Weechat-Android</h2><object>https://img.shields.io/static/v1?label=Powered%20By&message=Mountain&color=9ec49f&style=for-the-badge&labelColor=0f0f0f&link=https://github.com/mountain-theme/Mountain</object>
 
 <p>A dark, neutral color scheme</p>
 
