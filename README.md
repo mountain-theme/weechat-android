@@ -9,9 +9,8 @@
 4. Select `Dark color scheme` and now select `Mountain` as your theme
 
 ## Screenshots
-<p align="center">
 <a href="/img/weechat-android.png"><img src="/img/weechat-android.png" height="640px"></a>
-</p>
+<a href="/img/weechat-android-drawer.png"><img src="/img/weechat-android-drawer.png" height="640px"></a>
 
 The above screenshot uses the gorgeous [Cozette](https://github.com/slavfox/Cozette) font. 
 
