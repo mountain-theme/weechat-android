@@ -1,7 +1,6 @@
-<h2>Mountain for Weechat-Android</h2>
+## Mountain for Weechat-Android ![https://github.com/mountain-theme/Mountain]("https://img.shields.io/static/v1?label=Powered%20By&message=Mountain&color=9ec49f&style=for-the-badge&labelColor=0f0f0f")
 
 <p>A dark, neutral color scheme</p>
-</p>
 
 ## Installation
 1. Download `mountain.properties` onto your device
