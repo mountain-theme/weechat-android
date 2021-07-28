@@ -1,4 +1,4 @@
-## Mountain for Weechat-Android ![https://github.com/mountain-theme/Mountain](https://img.shields.io/static/v1?label=Powered%20By&message=Mountain&color=9ec49f&style=flat-square&labelColor=0f0f0f.svg)
+## Mountain for Weechat-Android 
 
 <p>A dark, neutral color scheme</p>
 
@@ -9,7 +9,9 @@
 4. Select `Dark color scheme` and now select `Mountain` as your theme
 
 ## Screenshots
-<a href="/img/weechat-android.png"><img src="/img/weechat-android.png" height="960px"></a>
+<p align="center">
+<a href="/img/weechat-android.png"><img src="/img/weechat-android.png" height="640px"></a>
+</p>
 
 The above screenshot uses the gorgeous [Cozette](https://github.com/slavfox/Cozette) font. 
 
