@@ -1,6 +1,15 @@
-## Mountain for Weechat-Android 
+<p align="center">
+    <img src="/img/mountain.png" width="80" />
+    <h2 align="center">Mountain for Termux</h2>
+</p>
 
-<p>A dark, neutral color scheme</p>
+<p align="center">Enchanting in its mystique and majesty. Mountain.</p>
+
+<p align="center">
+    <a href="https://github.com/mountain-theme/Mountain">
+        <img src="https://img.shields.io/static/v1?label=Powered%20By&message=Mountain&color=9ec49f&style=for-the-badge&labelColor=0f0f0f" />
+    </a>
+</p>
 
 ## Installation
 1. Download `mountain.properties` onto your device
@@ -14,9 +23,3 @@
 </p>
 
 The above screenshot uses the gorgeous [Cozette](https://github.com/slavfox/Cozette) font. 
-
----
-
-<p align="center">
-<a href="https://github.com/mountain-theme/Mountain"><img src="https://img.shields.io/static/v1?label=Powered%20By&message=Mountain&color=9ec49f&style=for-the-badge&labelColor=0f0f0f"></a>
-</p>
